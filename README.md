@@ -1,2 +1,3 @@
 # hello_world
-try
+尝试
+直接继承吗？
